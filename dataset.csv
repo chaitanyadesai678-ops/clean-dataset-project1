@@ -1,0 +1,9 @@
+Order_ID,Customer,Product,Quantity,Price,City
+101,Amit,Laptop,1,45000,Pune
+102,Neha,Mouse,2,500,Pune
+103,Rahul,Keyboard,,1200,Mumbai
+104,Priya,Monitor,1,8500,Nashik
+104,Priya,Monitor,1,8500,Nashik
+105,Sneha,Mouse,3,500,
+106,Arjun,Laptop,1,45000,Kolhapur
+107,,Keyboard,2,1200,Mumbai
